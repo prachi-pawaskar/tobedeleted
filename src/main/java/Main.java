@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String args[])  //static method
     {
-        System.out.println("Static method one");
+        System.out.println("First main method");
     }
 }
